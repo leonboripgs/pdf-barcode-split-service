@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Directory>
+	<Data ID="1" Enabled="True" FolderWatched="C:\Users\Sapience Star\Documents\PDFTest\Watched" FolderOutput="C:\Users\Sapience Star\Documents\PDFTest\Output" FolderSuccess="C:\Users\Sapience Star\Documents\PDFTest\Success" FolderError="C:\Users\Sapience Star\Documents\PDFTest\Error" FolderLog="C:\Users\Sapience Star\Documents\PDFTest\Log" SplitPdfName="{barcode}{timestamp}{basename}" />
+</Directory>

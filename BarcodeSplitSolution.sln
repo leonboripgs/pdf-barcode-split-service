@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeSplitManage", "BarcodeSplitManage\BarcodeSplitManage.csproj", "{6159B777-8718-4F30-8272-818DD3B5D3D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarcodeSplitWindowsService", "BarcodeSplitWindowsService\BarcodeSplitWindowsService.csproj", "{5E997892-D282-4138-AE6D-20C5866C1BE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6159B777-8718-4F30-8272-818DD3B5D3D1}.Debug|x86.ActiveCfg = Debug|x86
+		{6159B777-8718-4F30-8272-818DD3B5D3D1}.Debug|x86.Build.0 = Debug|x86
+		{6159B777-8718-4F30-8272-818DD3B5D3D1}.Release|x86.ActiveCfg = Release|x86
+		{6159B777-8718-4F30-8272-818DD3B5D3D1}.Release|x86.Build.0 = Release|x86
+		{5E997892-D282-4138-AE6D-20C5866C1BE8}.Debug|x86.ActiveCfg = Debug|x86
+		{5E997892-D282-4138-AE6D-20C5866C1BE8}.Debug|x86.Build.0 = Debug|x86
+		{5E997892-D282-4138-AE6D-20C5866C1BE8}.Release|x86.ActiveCfg = Release|x86
+		{5E997892-D282-4138-AE6D-20C5866C1BE8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A0AF1BA-FF7B-4177-AF2F-D733B6239E54}
+	EndGlobalSection
+EndGlobal
